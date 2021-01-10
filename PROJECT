@@ -1,0 +1,35 @@
+<!doctypehtml>
+<html> 
+<head> <title> JITENDER TANWAR </title></head>
+<body> 
+<h3> FORM </h3>
+ 
+<form id ="form"onsubmit="alert('THE FORM IS SUBMIITED SUCCESSFULLY')"> 
+
+FIRST NAME:<input type="text"placeholder="ENTER YOUR NAME"><br>
+<br>
+<br>
+LAST NAME:<input type="text"placeholder="ENTER LAST NAME"><br>
+<br>
+<br>
+GENDER:<input type="radio" name="gender">MALE
+       <input type="radio" name="gender">FEMALE
+       <input type="radio" name="gender">OTHERS<br>
+<br>
+<br>
+AGE:<input type="text"placeholder="ENTER YOUR AGE"><br>
+<br>
+<br>
+CONTACT NUMBER:<input type="text"placeholder="ENTER NUMBER"><br>
+<br>
+<br>
+EMAIL ADDRESS:<input type="text"placeholder="ENTER EMAIL"><br>
+<br>
+<br>
+PASSWORD:<input type="password"placeholder="ENTER PASSWORD"><br>
+<br>
+<br>
+<button type=submit"value="submit">SUBMITY YOUR RESPONSES</button>
+</form>
+</body>
+</html>
